@@ -67,9 +67,9 @@ A definição sobre as multas por não adequação foi feita ainda em 2018, no e
 
 Leads é a captura do e-mail do usuário com a finalidade de enviar e-mails do próprio interesse da empresa
 1. Informativo: 
-![Lead Informativo](imagens/lead_informativo.PNG)
+![Lead Informativo](Imagens/lead_informativo.PNG)
 2. Consentimento:  
-![Lead Consentimento](imagens/lead_consentimento.PNG)
+![Lead Consentimento](Imagens/lead_consentimento.PNG)
 
 **Cadastro de usuário**  
 
@@ -78,7 +78,7 @@ Leads é a captura do e-mail do usuário com a finalidade de enviar e-mails do p
 **Boa prática:** força de senha e tempo de alteração de senha;  
 **Vizualização e exportação de dados:** o usuário precisa de uma página onde ele possa visualizar e exportar seus dados;  
 
-![Visualização e Exportação](imagens/visualizacao_e_exportacao.PNG)
+![Visualização e Exportação](Imagens/visualizacao_e_exportacao.PNG)
 
 **Eliminação de dados:**  o usuário pode a qualquer momento solicitar a eliminação de dados, porém, a empresa não pode apagá-los do sistema. Esse processo é válido de 5 á 10 anos (talvez necessário consulta judicial), prazo legislativo para armazenamento de dados. Depois do prazo estabelecido, os dados poderão ser deletados ou anonimizados;
 
