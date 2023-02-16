@@ -66,7 +66,7 @@ A definição sobre as multas por não adequação foi feita ainda em 2018, no e
 **Coleta de LEADS** 
 
 Leads é a captura do e-mail do usuário com a finalidade de enviar e-mails do próprio interesse da empresa
-1. Informativo: 
+1. Informativo:  
 ![Lead Informativo](Imagens/lead_informativo.PNG)
 2. Consentimento:  
 ![Lead Consentimento](Imagens/lead_consentimento.PNG)
