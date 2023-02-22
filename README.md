@@ -61,11 +61,11 @@ A definição sobre as multas por não adequação foi feita ainda em 2018, no e
 
 **Política de privacidade**  
 
- É obrigatório e tem como objetivo explicitar informações como, lista de dados do usuário, o que será feito com aqueles dados e porque é necessário a coleta desses dados. 
+ É obrigatório e tem como objetivo explicitar informações como, lista de dados do usuário, o que será feito com aqueles dados e porque é necessário a coleta desses dados; 
 
 **Coleta de LEADS** 
 
-Leads é a captura do e-mail do usuário com a finalidade de enviar e-mails do próprio interesse da empresa
+Leads é a captura do e-mail do usuário com a finalidade de enviar e-mails do próprio interesse da empresa;
 1. Informativo:  
 ![Lead Informativo](Imagens/lead_informativo.PNG)
 2. Consentimento:  
@@ -91,7 +91,7 @@ Leads é a captura do e-mail do usuário com a finalidade de enviar e-mails do p
 
 ### **5. Encarregados de dados (DPO)**
 
-Pela LGPD, a indicação do Encarregado – DPO (Data Protection Officer) é obrigatório para todas as empresas, independentes do porte, atividade econômica ou volume de tratamento.  
+Pela LGPD, a indicação do Encarregado – DPO (Data Protection Officer) é obrigatória para todas as empresas, independentes do porte, atividade econômica ou volume de tratamento.  
 Exceções (segundo o site [Data Guide](https://dataguide.com.br/quando-e-obrigatorio-dpo/)):
 
 >Considera-se Startup: (I) as empresas com até 10 anos de inscrição no cadastro nacional de pessoa jurídica (CNPJ); (II) com faturamento bruto anual máximo de R$ 16 milhões; e (III) que utilizem modelos de negócios inovadores para geração de produtos ou serviços.
@@ -112,7 +112,7 @@ Será considerado de alto risco o tratamento de dados pessoais que atender cumul
 
 Critérios específicos:  
 a) Uso de tecnologias emergentes ou inovadoras:  
->AR/VR, Inteligência Artificial, Drones, Blockchain e Criptomoedas, IoT, Cleantechs e SmartCities, IoT e Big Data e Analytics.
+>AR/VR, Inteligência Artificial, Drones, Blockchain e Criptomoedas, IoT, Cleantechs e SmartCities e Big Data e Analytics.
 
 d) utilização de dados pessoais sensíveis ou de dados pessoais de crianças, de adolescentes e de idosos.
 
