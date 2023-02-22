@@ -76,7 +76,7 @@ Leads é a captura do e-mail do usuário com a finalidade de enviar e-mails do p
 É importante coletar o mínimo de dados possível e sempre deixar claro para o usuário porque você precisa daquele dado.  
 **Redefinição de senha:** padrão 2 fatores;  
 **Boa prática:** força de senha e tempo de alteração de senha;  
-**Vizualização e exportação de dados:** o usuário precisa de uma página onde ele possa visualizar e exportar seus dados;  
+**Visualização e exportação de dados:** o usuário precisa de uma página onde ele possa visualizar e exportar seus dados;  
 
 ![Visualização e Exportação](Imagens/visualizacao_e_exportacao.PNG)
 
